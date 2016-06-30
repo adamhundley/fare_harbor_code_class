@@ -3,5 +3,16 @@ h1 {
 }
 
 body {
-  background-color: red
+  background-color: white
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar ul li {
+  display: inline;
+  padding:  3em;
 }
