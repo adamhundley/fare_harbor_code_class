@@ -13,7 +13,7 @@
 * [View Here](https://www.icloud.com/keynote/0f3wcsNET3Bzx0EiWQd-mONSw#fare%5Fharbor%5Fclass%5Ftwo)
 
 ## Homework
-* [View Here]()
+* [View Here](https://github.com/adamhundley/fare_harbor_code_class/blob/master/homework/class2homework.md)
 
 ## Resources
 
