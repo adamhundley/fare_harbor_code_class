@@ -1,4 +1,4 @@
-# 7/7 - Class 3
+# 7/12 - Class 3
 
 ## Agenda
 
