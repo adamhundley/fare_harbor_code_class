@@ -3,10 +3,11 @@
 ## Agenda
 
 * 5 mins - Commit Workflow Review
-* 55 mins - CSS
+* 30 mins - What is CSS?
+* 25 mins - Setting up CSS and doing it!
 
 ## Slides
-* [View Here]()
+* [View Here](https://www.icloud.com/keynote/0KguxOrvMApYzt4jiNyj_6f6w#fare%5Fharbor%5Fclass%5Fthree)
 
 ## Resources
 
