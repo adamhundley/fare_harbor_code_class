@@ -2,12 +2,13 @@
 
 ## Agenda
 
-* 5 mins - Review
+* 10 mins - Review
+* 10 mins - OnClick events
 * 15 mins - Lightframes
-* 45 mins - Integrations
+* 35 mins - Integrations
 
 ## Slides
-* [View Here]()
+* [View Here](https://www.icloud.com/keynote/00_7_aXI9Q7YywThx89BxiDcw#fare%5Fharbor%5Fclass%5Ffive)
 
 ## Resources
 
