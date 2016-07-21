@@ -2,12 +2,15 @@
 
 ## Agenda
 
-* 60 mins - Integrations
+* 5 mins - Review
+* 15 mins - jQuery
+* 40 mins - Weebly Integration
 
 ## Slides
-* [View Here]()
+* [View Here](https://www.icloud.com/keynote/0SHgtI1zqt9WPI9znyDx3sSZg#fare%5Fharbor%5Fclass%5Fsix)
 
 ## Resources
 
+* [jQuery events docs](http://api.jquery.com/category/events/)
 
 Email questions to adamhundley@gmail.com
