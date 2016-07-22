@@ -11,6 +11,7 @@
 
 ## Resources
 
-* [jQuery events docs](http://api.jquery.com/category/events/)
+* [jQuery docs](http://api.jquery.com/category/events/)
+* [jQuery events docs](http://api.jquery.com)
 
 Email questions to adamhundley@gmail.com
